@@ -1,0 +1,5 @@
+检查指定文件或文件夹代码规范
+npx eslint src/pages/Ops
+
+autofix指定文件代码
+npx eslint --fix ./src/pages/Asset/Camera/Modify.js
